@@ -643,1262 +643,1262 @@ import { YoutubeIcon } from 'primeng/icons/youtube';
             <p>PrimeIcons are included in PrimeNG and can be used without any additional installation.</p>
         </app-docsectiontext>
         <div class="card">
-            <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-2">
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8 gap-6">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="address-book" class="text-2xl" />
-                    <span class="text-xs text-center">addressbook</span>
+                    <span class="text-xs text-center break-words w-full">addressbook</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="align-center" class="text-2xl" />
-                    <span class="text-xs text-center">aligncenter</span>
+                    <span class="text-xs text-center break-words w-full">aligncenter</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="align-justify" class="text-2xl" />
-                    <span class="text-xs text-center">alignjustify</span>
+                    <span class="text-xs text-center break-words w-full">alignjustify</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="align-left" class="text-2xl" />
-                    <span class="text-xs text-center">alignleft</span>
+                    <span class="text-xs text-center break-words w-full">alignleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="align-right" class="text-2xl" />
-                    <span class="text-xs text-center">alignright</span>
+                    <span class="text-xs text-center break-words w-full">alignright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="android" class="text-2xl" />
-                    <span class="text-xs text-center">android</span>
+                    <span class="text-xs text-center break-words w-full">android</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-double-down" class="text-2xl" />
-                    <span class="text-xs text-center">angledoubledown</span>
+                    <span class="text-xs text-center break-words w-full">angledoubledown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-double-left" class="text-2xl" />
-                    <span class="text-xs text-center">angledoubleleft</span>
+                    <span class="text-xs text-center break-words w-full">angledoubleleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-double-right" class="text-2xl" />
-                    <span class="text-xs text-center">angledoubleright</span>
+                    <span class="text-xs text-center break-words w-full">angledoubleright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-double-up" class="text-2xl" />
-                    <span class="text-xs text-center">angledoubleup</span>
+                    <span class="text-xs text-center break-words w-full">angledoubleup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-down" class="text-2xl" />
-                    <span class="text-xs text-center">angledown</span>
+                    <span class="text-xs text-center break-words w-full">angledown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-left" class="text-2xl" />
-                    <span class="text-xs text-center">angleleft</span>
+                    <span class="text-xs text-center break-words w-full">angleleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-right" class="text-2xl" />
-                    <span class="text-xs text-center">angleright</span>
+                    <span class="text-xs text-center break-words w-full">angleright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="angle-up" class="text-2xl" />
-                    <span class="text-xs text-center">angleup</span>
+                    <span class="text-xs text-center break-words w-full">angleup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="apple" class="text-2xl" />
-                    <span class="text-xs text-center">apple</span>
+                    <span class="text-xs text-center break-words w-full">apple</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-circle-down" class="text-2xl" />
-                    <span class="text-xs text-center">arrowcircledown</span>
+                    <span class="text-xs text-center break-words w-full">arrowcircledown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-circle-left" class="text-2xl" />
-                    <span class="text-xs text-center">arrowcircleleft</span>
+                    <span class="text-xs text-center break-words w-full">arrowcircleleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-circle-right" class="text-2xl" />
-                    <span class="text-xs text-center">arrowcircleright</span>
+                    <span class="text-xs text-center break-words w-full">arrowcircleright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-circle-up" class="text-2xl" />
-                    <span class="text-xs text-center">arrowcircleup</span>
+                    <span class="text-xs text-center break-words w-full">arrowcircleup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-down" class="text-2xl" />
-                    <span class="text-xs text-center">arrowdown</span>
+                    <span class="text-xs text-center break-words w-full">arrowdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-down-left" class="text-2xl" />
-                    <span class="text-xs text-center">arrowdownleft</span>
+                    <span class="text-xs text-center break-words w-full">arrowdownleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-down-left-and-arrow-up-right-to-center" class="text-2xl" />
-                    <span class="text-xs text-center">arrowdownleftandarrowuprighttocenter</span>
+                    <span class="text-xs text-center break-words w-full">arrowdownleftandarrowuprighttocenter</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-down-right" class="text-2xl" />
-                    <span class="text-xs text-center">arrowdownright</span>
+                    <span class="text-xs text-center break-words w-full">arrowdownright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-left" class="text-2xl" />
-                    <span class="text-xs text-center">arrowleft</span>
+                    <span class="text-xs text-center break-words w-full">arrowleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-right" class="text-2xl" />
-                    <span class="text-xs text-center">arrowright</span>
+                    <span class="text-xs text-center break-words w-full">arrowright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-right-arrow-left" class="text-2xl" />
-                    <span class="text-xs text-center">arrowrightarrowleft</span>
+                    <span class="text-xs text-center break-words w-full">arrowrightarrowleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrows-alt" class="text-2xl" />
-                    <span class="text-xs text-center">arrowsalt</span>
+                    <span class="text-xs text-center break-words w-full">arrowsalt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrows-h" class="text-2xl" />
-                    <span class="text-xs text-center">arrowsh</span>
+                    <span class="text-xs text-center break-words w-full">arrowsh</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrows-v" class="text-2xl" />
-                    <span class="text-xs text-center">arrowsv</span>
+                    <span class="text-xs text-center break-words w-full">arrowsv</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-up" class="text-2xl" />
-                    <span class="text-xs text-center">arrowup</span>
+                    <span class="text-xs text-center break-words w-full">arrowup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-up-left" class="text-2xl" />
-                    <span class="text-xs text-center">arrowupleft</span>
+                    <span class="text-xs text-center break-words w-full">arrowupleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-up-right" class="text-2xl" />
-                    <span class="text-xs text-center">arrowupright</span>
+                    <span class="text-xs text-center break-words w-full">arrowupright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="arrow-up-right-and-arrow-down-left-from-center" class="text-2xl" />
-                    <span class="text-xs text-center">arrowuprightandarrowdownleftfromcenter</span>
+                    <span class="text-xs text-center break-words w-full">arrowuprightandarrowdownleftfromcenter</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="asteriks" class="text-2xl" />
-                    <span class="text-xs text-center">asteriks</span>
+                    <span class="text-xs text-center break-words w-full">asteriks</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="at" class="text-2xl" />
-                    <span class="text-xs text-center">at</span>
+                    <span class="text-xs text-center break-words w-full">at</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="backward" class="text-2xl" />
-                    <span class="text-xs text-center">backward</span>
+                    <span class="text-xs text-center break-words w-full">backward</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="ban" class="text-2xl" />
-                    <span class="text-xs text-center">ban</span>
+                    <span class="text-xs text-center break-words w-full">ban</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="barcode" class="text-2xl" />
-                    <span class="text-xs text-center">barcode</span>
+                    <span class="text-xs text-center break-words w-full">barcode</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bars" class="text-2xl" />
-                    <span class="text-xs text-center">bars</span>
+                    <span class="text-xs text-center break-words w-full">bars</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bell" class="text-2xl" />
-                    <span class="text-xs text-center">bell</span>
+                    <span class="text-xs text-center break-words w-full">bell</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bell-slash" class="text-2xl" />
-                    <span class="text-xs text-center">bellslash</span>
+                    <span class="text-xs text-center break-words w-full">bellslash</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bitcoin" class="text-2xl" />
-                    <span class="text-xs text-center">bitcoin</span>
+                    <span class="text-xs text-center break-words w-full">bitcoin</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="blank" class="text-2xl" />
-                    <span class="text-xs text-center">blank</span>
+                    <span class="text-xs text-center break-words w-full">blank</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bolt" class="text-2xl" />
-                    <span class="text-xs text-center">bolt</span>
+                    <span class="text-xs text-center break-words w-full">bolt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="book" class="text-2xl" />
-                    <span class="text-xs text-center">book</span>
+                    <span class="text-xs text-center break-words w-full">book</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bookmark" class="text-2xl" />
-                    <span class="text-xs text-center">bookmark</span>
+                    <span class="text-xs text-center break-words w-full">bookmark</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bookmark-fill" class="text-2xl" />
-                    <span class="text-xs text-center">bookmarkfill</span>
+                    <span class="text-xs text-center break-words w-full">bookmarkfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="box" class="text-2xl" />
-                    <span class="text-xs text-center">box</span>
+                    <span class="text-xs text-center break-words w-full">box</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="briefcase" class="text-2xl" />
-                    <span class="text-xs text-center">briefcase</span>
+                    <span class="text-xs text-center break-words w-full">briefcase</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="building" class="text-2xl" />
-                    <span class="text-xs text-center">building</span>
+                    <span class="text-xs text-center break-words w-full">building</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="building-columns" class="text-2xl" />
-                    <span class="text-xs text-center">buildingcolumns</span>
+                    <span class="text-xs text-center break-words w-full">buildingcolumns</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="bullseye" class="text-2xl" />
-                    <span class="text-xs text-center">bullseye</span>
+                    <span class="text-xs text-center break-words w-full">bullseye</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="calculator" class="text-2xl" />
-                    <span class="text-xs text-center">calculator</span>
+                    <span class="text-xs text-center break-words w-full">calculator</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="calendar" class="text-2xl" />
-                    <span class="text-xs text-center">calendar</span>
+                    <span class="text-xs text-center break-words w-full">calendar</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="calendar-clock" class="text-2xl" />
-                    <span class="text-xs text-center">calendarclock</span>
+                    <span class="text-xs text-center break-words w-full">calendarclock</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="calendar-minus" class="text-2xl" />
-                    <span class="text-xs text-center">calendarminus</span>
+                    <span class="text-xs text-center break-words w-full">calendarminus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="calendar-plus" class="text-2xl" />
-                    <span class="text-xs text-center">calendarplus</span>
+                    <span class="text-xs text-center break-words w-full">calendarplus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="calendar-times" class="text-2xl" />
-                    <span class="text-xs text-center">calendartimes</span>
+                    <span class="text-xs text-center break-words w-full">calendartimes</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="camera" class="text-2xl" />
-                    <span class="text-xs text-center">camera</span>
+                    <span class="text-xs text-center break-words w-full">camera</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="car" class="text-2xl" />
-                    <span class="text-xs text-center">car</span>
+                    <span class="text-xs text-center break-words w-full">car</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="caret-down" class="text-2xl" />
-                    <span class="text-xs text-center">caretdown</span>
+                    <span class="text-xs text-center break-words w-full">caretdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="caret-left" class="text-2xl" />
-                    <span class="text-xs text-center">caretleft</span>
+                    <span class="text-xs text-center break-words w-full">caretleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="caret-right" class="text-2xl" />
-                    <span class="text-xs text-center">caretright</span>
+                    <span class="text-xs text-center break-words w-full">caretright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="caret-up" class="text-2xl" />
-                    <span class="text-xs text-center">caretup</span>
+                    <span class="text-xs text-center break-words w-full">caretup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="cart-arrow-down" class="text-2xl" />
-                    <span class="text-xs text-center">cartarrowdown</span>
+                    <span class="text-xs text-center break-words w-full">cartarrowdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="cart-minus" class="text-2xl" />
-                    <span class="text-xs text-center">cartminus</span>
+                    <span class="text-xs text-center break-words w-full">cartminus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="cart-plus" class="text-2xl" />
-                    <span class="text-xs text-center">cartplus</span>
+                    <span class="text-xs text-center break-words w-full">cartplus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chart-bar" class="text-2xl" />
-                    <span class="text-xs text-center">chartbar</span>
+                    <span class="text-xs text-center break-words w-full">chartbar</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chart-line" class="text-2xl" />
-                    <span class="text-xs text-center">chartline</span>
+                    <span class="text-xs text-center break-words w-full">chartline</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chart-pie" class="text-2xl" />
-                    <span class="text-xs text-center">chartpie</span>
+                    <span class="text-xs text-center break-words w-full">chartpie</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chart-scatter" class="text-2xl" />
-                    <span class="text-xs text-center">chartscatter</span>
+                    <span class="text-xs text-center break-words w-full">chartscatter</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="check" class="text-2xl" />
-                    <span class="text-xs text-center">check</span>
+                    <span class="text-xs text-center break-words w-full">check</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="check-circle" class="text-2xl" />
-                    <span class="text-xs text-center">checkcircle</span>
+                    <span class="text-xs text-center break-words w-full">checkcircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="check-square" class="text-2xl" />
-                    <span class="text-xs text-center">checksquare</span>
+                    <span class="text-xs text-center break-words w-full">checksquare</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-circle-down" class="text-2xl" />
-                    <span class="text-xs text-center">chevroncircledown</span>
+                    <span class="text-xs text-center break-words w-full">chevroncircledown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-circle-left" class="text-2xl" />
-                    <span class="text-xs text-center">chevroncircleleft</span>
+                    <span class="text-xs text-center break-words w-full">chevroncircleleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-circle-right" class="text-2xl" />
-                    <span class="text-xs text-center">chevroncircleright</span>
+                    <span class="text-xs text-center break-words w-full">chevroncircleright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-circle-up" class="text-2xl" />
-                    <span class="text-xs text-center">chevroncircleup</span>
+                    <span class="text-xs text-center break-words w-full">chevroncircleup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-down" class="text-2xl" />
-                    <span class="text-xs text-center">chevrondown</span>
+                    <span class="text-xs text-center break-words w-full">chevrondown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-left" class="text-2xl" />
-                    <span class="text-xs text-center">chevronleft</span>
+                    <span class="text-xs text-center break-words w-full">chevronleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-right" class="text-2xl" />
-                    <span class="text-xs text-center">chevronright</span>
+                    <span class="text-xs text-center break-words w-full">chevronright</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="chevron-up" class="text-2xl" />
-                    <span class="text-xs text-center">chevronup</span>
+                    <span class="text-xs text-center break-words w-full">chevronup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="circle" class="text-2xl" />
-                    <span class="text-xs text-center">circle</span>
+                    <span class="text-xs text-center break-words w-full">circle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="circle-fill" class="text-2xl" />
-                    <span class="text-xs text-center">circlefill</span>
+                    <span class="text-xs text-center break-words w-full">circlefill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="circle-off" class="text-2xl" />
-                    <span class="text-xs text-center">circleoff</span>
+                    <span class="text-xs text-center break-words w-full">circleoff</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="circle-on" class="text-2xl" />
-                    <span class="text-xs text-center">circleon</span>
+                    <span class="text-xs text-center break-words w-full">circleon</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="clipboard" class="text-2xl" />
-                    <span class="text-xs text-center">clipboard</span>
+                    <span class="text-xs text-center break-words w-full">clipboard</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="clock" class="text-2xl" />
-                    <span class="text-xs text-center">clock</span>
+                    <span class="text-xs text-center break-words w-full">clock</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="clone" class="text-2xl" />
-                    <span class="text-xs text-center">clone</span>
+                    <span class="text-xs text-center break-words w-full">clone</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="cloud" class="text-2xl" />
-                    <span class="text-xs text-center">cloud</span>
+                    <span class="text-xs text-center break-words w-full">cloud</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="cloud-download" class="text-2xl" />
-                    <span class="text-xs text-center">clouddownload</span>
+                    <span class="text-xs text-center break-words w-full">clouddownload</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="cloud-upload" class="text-2xl" />
-                    <span class="text-xs text-center">cloudupload</span>
+                    <span class="text-xs text-center break-words w-full">cloudupload</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="code" class="text-2xl" />
-                    <span class="text-xs text-center">code</span>
+                    <span class="text-xs text-center break-words w-full">code</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="cog" class="text-2xl" />
-                    <span class="text-xs text-center">cog</span>
+                    <span class="text-xs text-center break-words w-full">cog</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="comment" class="text-2xl" />
-                    <span class="text-xs text-center">comment</span>
+                    <span class="text-xs text-center break-words w-full">comment</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="comments" class="text-2xl" />
-                    <span class="text-xs text-center">comments</span>
+                    <span class="text-xs text-center break-words w-full">comments</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="compass" class="text-2xl" />
-                    <span class="text-xs text-center">compass</span>
+                    <span class="text-xs text-center break-words w-full">compass</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="copy" class="text-2xl" />
-                    <span class="text-xs text-center">copy</span>
+                    <span class="text-xs text-center break-words w-full">copy</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="credit-card" class="text-2xl" />
-                    <span class="text-xs text-center">creditcard</span>
+                    <span class="text-xs text-center break-words w-full">creditcard</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="crown" class="text-2xl" />
-                    <span class="text-xs text-center">crown</span>
+                    <span class="text-xs text-center break-words w-full">crown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="database" class="text-2xl" />
-                    <span class="text-xs text-center">database</span>
+                    <span class="text-xs text-center break-words w-full">database</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="delete-left" class="text-2xl" />
-                    <span class="text-xs text-center">deleteleft</span>
+                    <span class="text-xs text-center break-words w-full">deleteleft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="desktop" class="text-2xl" />
-                    <span class="text-xs text-center">desktop</span>
+                    <span class="text-xs text-center break-words w-full">desktop</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="directions" class="text-2xl" />
-                    <span class="text-xs text-center">directions</span>
+                    <span class="text-xs text-center break-words w-full">directions</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="directions-alt" class="text-2xl" />
-                    <span class="text-xs text-center">directionsalt</span>
+                    <span class="text-xs text-center break-words w-full">directionsalt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="discord" class="text-2xl" />
-                    <span class="text-xs text-center">discord</span>
+                    <span class="text-xs text-center break-words w-full">discord</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="dollar" class="text-2xl" />
-                    <span class="text-xs text-center">dollar</span>
+                    <span class="text-xs text-center break-words w-full">dollar</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="download" class="text-2xl" />
-                    <span class="text-xs text-center">download</span>
+                    <span class="text-xs text-center break-words w-full">download</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="eject" class="text-2xl" />
-                    <span class="text-xs text-center">eject</span>
+                    <span class="text-xs text-center break-words w-full">eject</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="ellipsis-h" class="text-2xl" />
-                    <span class="text-xs text-center">ellipsish</span>
+                    <span class="text-xs text-center break-words w-full">ellipsish</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="ellipsis-v" class="text-2xl" />
-                    <span class="text-xs text-center">ellipsisv</span>
+                    <span class="text-xs text-center break-words w-full">ellipsisv</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="envelope" class="text-2xl" />
-                    <span class="text-xs text-center">envelope</span>
+                    <span class="text-xs text-center break-words w-full">envelope</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="equals" class="text-2xl" />
-                    <span class="text-xs text-center">equals</span>
+                    <span class="text-xs text-center break-words w-full">equals</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="eraser" class="text-2xl" />
-                    <span class="text-xs text-center">eraser</span>
+                    <span class="text-xs text-center break-words w-full">eraser</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="ethereum" class="text-2xl" />
-                    <span class="text-xs text-center">ethereum</span>
+                    <span class="text-xs text-center break-words w-full">ethereum</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="euro" class="text-2xl" />
-                    <span class="text-xs text-center">euro</span>
+                    <span class="text-xs text-center break-words w-full">euro</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="exclamation-circle" class="text-2xl" />
-                    <span class="text-xs text-center">exclamationcircle</span>
+                    <span class="text-xs text-center break-words w-full">exclamationcircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="exclamation-triangle" class="text-2xl" />
-                    <span class="text-xs text-center">exclamationtriangle</span>
+                    <span class="text-xs text-center break-words w-full">exclamationtriangle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="expand" class="text-2xl" />
-                    <span class="text-xs text-center">expand</span>
+                    <span class="text-xs text-center break-words w-full">expand</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="external-link" class="text-2xl" />
-                    <span class="text-xs text-center">externallink</span>
+                    <span class="text-xs text-center break-words w-full">externallink</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="eye" class="text-2xl" />
-                    <span class="text-xs text-center">eye</span>
+                    <span class="text-xs text-center break-words w-full">eye</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="eye-slash" class="text-2xl" />
-                    <span class="text-xs text-center">eyeslash</span>
+                    <span class="text-xs text-center break-words w-full">eyeslash</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="facebook" class="text-2xl" />
-                    <span class="text-xs text-center">facebook</span>
+                    <span class="text-xs text-center break-words w-full">facebook</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="face-smile" class="text-2xl" />
-                    <span class="text-xs text-center">facesmile</span>
+                    <span class="text-xs text-center break-words w-full">facesmile</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="fast-backward" class="text-2xl" />
-                    <span class="text-xs text-center">fastbackward</span>
+                    <span class="text-xs text-center break-words w-full">fastbackward</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="fast-forward" class="text-2xl" />
-                    <span class="text-xs text-center">fastforward</span>
+                    <span class="text-xs text-center break-words w-full">fastforward</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file" class="text-2xl" />
-                    <span class="text-xs text-center">file</span>
+                    <span class="text-xs text-center break-words w-full">file</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-arrow-up" class="text-2xl" />
-                    <span class="text-xs text-center">filearrowup</span>
+                    <span class="text-xs text-center break-words w-full">filearrowup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-check" class="text-2xl" />
-                    <span class="text-xs text-center">filecheck</span>
+                    <span class="text-xs text-center break-words w-full">filecheck</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-edit" class="text-2xl" />
-                    <span class="text-xs text-center">fileedit</span>
+                    <span class="text-xs text-center break-words w-full">fileedit</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-excel" class="text-2xl" />
-                    <span class="text-xs text-center">fileexcel</span>
+                    <span class="text-xs text-center break-words w-full">fileexcel</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-export" class="text-2xl" />
-                    <span class="text-xs text-center">fileexport</span>
+                    <span class="text-xs text-center break-words w-full">fileexport</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-import" class="text-2xl" />
-                    <span class="text-xs text-center">fileimport</span>
+                    <span class="text-xs text-center break-words w-full">fileimport</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-o" class="text-2xl" />
-                    <span class="text-xs text-center">fileo</span>
+                    <span class="text-xs text-center break-words w-full">fileo</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-pdf" class="text-2xl" />
-                    <span class="text-xs text-center">filepdf</span>
+                    <span class="text-xs text-center break-words w-full">filepdf</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-plus" class="text-2xl" />
-                    <span class="text-xs text-center">fileplus</span>
+                    <span class="text-xs text-center break-words w-full">fileplus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="file-word" class="text-2xl" />
-                    <span class="text-xs text-center">fileword</span>
+                    <span class="text-xs text-center break-words w-full">fileword</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="filter" class="text-2xl" />
-                    <span class="text-xs text-center">filter</span>
+                    <span class="text-xs text-center break-words w-full">filter</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="filter-fill" class="text-2xl" />
-                    <span class="text-xs text-center">filterfill</span>
+                    <span class="text-xs text-center break-words w-full">filterfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="filter-slash" class="text-2xl" />
-                    <span class="text-xs text-center">filterslash</span>
+                    <span class="text-xs text-center break-words w-full">filterslash</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="flag" class="text-2xl" />
-                    <span class="text-xs text-center">flag</span>
+                    <span class="text-xs text-center break-words w-full">flag</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="flag-fill" class="text-2xl" />
-                    <span class="text-xs text-center">flagfill</span>
+                    <span class="text-xs text-center break-words w-full">flagfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="folder" class="text-2xl" />
-                    <span class="text-xs text-center">folder</span>
+                    <span class="text-xs text-center break-words w-full">folder</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="folder-open" class="text-2xl" />
-                    <span class="text-xs text-center">folderopen</span>
+                    <span class="text-xs text-center break-words w-full">folderopen</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="folder-plus" class="text-2xl" />
-                    <span class="text-xs text-center">folderplus</span>
+                    <span class="text-xs text-center break-words w-full">folderplus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="forward" class="text-2xl" />
-                    <span class="text-xs text-center">forward</span>
+                    <span class="text-xs text-center break-words w-full">forward</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="gauge" class="text-2xl" />
-                    <span class="text-xs text-center">gauge</span>
+                    <span class="text-xs text-center break-words w-full">gauge</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="gift" class="text-2xl" />
-                    <span class="text-xs text-center">gift</span>
+                    <span class="text-xs text-center break-words w-full">gift</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="github" class="text-2xl" />
-                    <span class="text-xs text-center">github</span>
+                    <span class="text-xs text-center break-words w-full">github</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="globe" class="text-2xl" />
-                    <span class="text-xs text-center">globe</span>
+                    <span class="text-xs text-center break-words w-full">globe</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="google" class="text-2xl" />
-                    <span class="text-xs text-center">google</span>
+                    <span class="text-xs text-center break-words w-full">google</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="graduation-cap" class="text-2xl" />
-                    <span class="text-xs text-center">graduationcap</span>
+                    <span class="text-xs text-center break-words w-full">graduationcap</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="hammer" class="text-2xl" />
-                    <span class="text-xs text-center">hammer</span>
+                    <span class="text-xs text-center break-words w-full">hammer</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="hashtag" class="text-2xl" />
-                    <span class="text-xs text-center">hashtag</span>
+                    <span class="text-xs text-center break-words w-full">hashtag</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="headphones" class="text-2xl" />
-                    <span class="text-xs text-center">headphones</span>
+                    <span class="text-xs text-center break-words w-full">headphones</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="heart" class="text-2xl" />
-                    <span class="text-xs text-center">heart</span>
+                    <span class="text-xs text-center break-words w-full">heart</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="heart-fill" class="text-2xl" />
-                    <span class="text-xs text-center">heartfill</span>
+                    <span class="text-xs text-center break-words w-full">heartfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="history" class="text-2xl" />
-                    <span class="text-xs text-center">history</span>
+                    <span class="text-xs text-center break-words w-full">history</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="home" class="text-2xl" />
-                    <span class="text-xs text-center">home</span>
+                    <span class="text-xs text-center break-words w-full">home</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="hourglass" class="text-2xl" />
-                    <span class="text-xs text-center">hourglass</span>
+                    <span class="text-xs text-center break-words w-full">hourglass</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="id-card" class="text-2xl" />
-                    <span class="text-xs text-center">idcard</span>
+                    <span class="text-xs text-center break-words w-full">idcard</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="image" class="text-2xl" />
-                    <span class="text-xs text-center">image</span>
+                    <span class="text-xs text-center break-words w-full">image</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="images" class="text-2xl" />
-                    <span class="text-xs text-center">images</span>
+                    <span class="text-xs text-center break-words w-full">images</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="inbox" class="text-2xl" />
-                    <span class="text-xs text-center">inbox</span>
+                    <span class="text-xs text-center break-words w-full">inbox</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="indian-rupee" class="text-2xl" />
-                    <span class="text-xs text-center">indianrupee</span>
+                    <span class="text-xs text-center break-words w-full">indianrupee</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="info" class="text-2xl" />
-                    <span class="text-xs text-center">info</span>
+                    <span class="text-xs text-center break-words w-full">info</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="info-circle" class="text-2xl" />
-                    <span class="text-xs text-center">infocircle</span>
+                    <span class="text-xs text-center break-words w-full">infocircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="instagram" class="text-2xl" />
-                    <span class="text-xs text-center">instagram</span>
+                    <span class="text-xs text-center break-words w-full">instagram</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="key" class="text-2xl" />
-                    <span class="text-xs text-center">key</span>
+                    <span class="text-xs text-center break-words w-full">key</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="language" class="text-2xl" />
-                    <span class="text-xs text-center">language</span>
+                    <span class="text-xs text-center break-words w-full">language</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="lightbulb" class="text-2xl" />
-                    <span class="text-xs text-center">lightbulb</span>
+                    <span class="text-xs text-center break-words w-full">lightbulb</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="link" class="text-2xl" />
-                    <span class="text-xs text-center">link</span>
+                    <span class="text-xs text-center break-words w-full">link</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="linkedin" class="text-2xl" />
-                    <span class="text-xs text-center">linkedin</span>
+                    <span class="text-xs text-center break-words w-full">linkedin</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="list" class="text-2xl" />
-                    <span class="text-xs text-center">list</span>
+                    <span class="text-xs text-center break-words w-full">list</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="list-check" class="text-2xl" />
-                    <span class="text-xs text-center">listcheck</span>
+                    <span class="text-xs text-center break-words w-full">listcheck</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="lock" class="text-2xl" />
-                    <span class="text-xs text-center">lock</span>
+                    <span class="text-xs text-center break-words w-full">lock</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="lock-open" class="text-2xl" />
-                    <span class="text-xs text-center">lockopen</span>
+                    <span class="text-xs text-center break-words w-full">lockopen</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="map" class="text-2xl" />
-                    <span class="text-xs text-center">map</span>
+                    <span class="text-xs text-center break-words w-full">map</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="map-marker" class="text-2xl" />
-                    <span class="text-xs text-center">mapmarker</span>
+                    <span class="text-xs text-center break-words w-full">mapmarker</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="mars" class="text-2xl" />
-                    <span class="text-xs text-center">mars</span>
+                    <span class="text-xs text-center break-words w-full">mars</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="megaphone" class="text-2xl" />
-                    <span class="text-xs text-center">megaphone</span>
+                    <span class="text-xs text-center break-words w-full">megaphone</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="microchip" class="text-2xl" />
-                    <span class="text-xs text-center">microchip</span>
+                    <span class="text-xs text-center break-words w-full">microchip</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="microchip-ai" class="text-2xl" />
-                    <span class="text-xs text-center">microchipai</span>
+                    <span class="text-xs text-center break-words w-full">microchipai</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="microphone" class="text-2xl" />
-                    <span class="text-xs text-center">microphone</span>
+                    <span class="text-xs text-center break-words w-full">microphone</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="microsoft" class="text-2xl" />
-                    <span class="text-xs text-center">microsoft</span>
+                    <span class="text-xs text-center break-words w-full">microsoft</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="minus" class="text-2xl" />
-                    <span class="text-xs text-center">minus</span>
+                    <span class="text-xs text-center break-words w-full">minus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="minus-circle" class="text-2xl" />
-                    <span class="text-xs text-center">minuscircle</span>
+                    <span class="text-xs text-center break-words w-full">minuscircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="mobile" class="text-2xl" />
-                    <span class="text-xs text-center">mobile</span>
+                    <span class="text-xs text-center break-words w-full">mobile</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="money-bill" class="text-2xl" />
-                    <span class="text-xs text-center">moneybill</span>
+                    <span class="text-xs text-center break-words w-full">moneybill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="moon" class="text-2xl" />
-                    <span class="text-xs text-center">moon</span>
+                    <span class="text-xs text-center break-words w-full">moon</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="objects-column" class="text-2xl" />
-                    <span class="text-xs text-center">objectscolumn</span>
+                    <span class="text-xs text-center break-words w-full">objectscolumn</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="palette" class="text-2xl" />
-                    <span class="text-xs text-center">palette</span>
+                    <span class="text-xs text-center break-words w-full">palette</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="paperclip" class="text-2xl" />
-                    <span class="text-xs text-center">paperclip</span>
+                    <span class="text-xs text-center break-words w-full">paperclip</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="pause" class="text-2xl" />
-                    <span class="text-xs text-center">pause</span>
+                    <span class="text-xs text-center break-words w-full">pause</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="pause-circle" class="text-2xl" />
-                    <span class="text-xs text-center">pausecircle</span>
+                    <span class="text-xs text-center break-words w-full">pausecircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="paypal" class="text-2xl" />
-                    <span class="text-xs text-center">paypal</span>
+                    <span class="text-xs text-center break-words w-full">paypal</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="pencil" class="text-2xl" />
-                    <span class="text-xs text-center">pencil</span>
+                    <span class="text-xs text-center break-words w-full">pencil</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="pen-to-square" class="text-2xl" />
-                    <span class="text-xs text-center">pentosquare</span>
+                    <span class="text-xs text-center break-words w-full">pentosquare</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="percentage" class="text-2xl" />
-                    <span class="text-xs text-center">percentage</span>
+                    <span class="text-xs text-center break-words w-full">percentage</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="phone" class="text-2xl" />
-                    <span class="text-xs text-center">phone</span>
+                    <span class="text-xs text-center break-words w-full">phone</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="pinterest" class="text-2xl" />
-                    <span class="text-xs text-center">pinterest</span>
+                    <span class="text-xs text-center break-words w-full">pinterest</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="play" class="text-2xl" />
-                    <span class="text-xs text-center">play</span>
+                    <span class="text-xs text-center break-words w-full">play</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="play-circle" class="text-2xl" />
-                    <span class="text-xs text-center">playcircle</span>
+                    <span class="text-xs text-center break-words w-full">playcircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="plus" class="text-2xl" />
-                    <span class="text-xs text-center">plus</span>
+                    <span class="text-xs text-center break-words w-full">plus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="plus-circle" class="text-2xl" />
-                    <span class="text-xs text-center">pluscircle</span>
+                    <span class="text-xs text-center break-words w-full">pluscircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="pound" class="text-2xl" />
-                    <span class="text-xs text-center">pound</span>
+                    <span class="text-xs text-center break-words w-full">pound</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="power-off" class="text-2xl" />
-                    <span class="text-xs text-center">poweroff</span>
+                    <span class="text-xs text-center break-words w-full">poweroff</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="prime" class="text-2xl" />
-                    <span class="text-xs text-center">prime</span>
+                    <span class="text-xs text-center break-words w-full">prime</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="print" class="text-2xl" />
-                    <span class="text-xs text-center">print</span>
+                    <span class="text-xs text-center break-words w-full">print</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="qrcode" class="text-2xl" />
-                    <span class="text-xs text-center">qrcode</span>
+                    <span class="text-xs text-center break-words w-full">qrcode</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="question" class="text-2xl" />
-                    <span class="text-xs text-center">question</span>
+                    <span class="text-xs text-center break-words w-full">question</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="question-circle" class="text-2xl" />
-                    <span class="text-xs text-center">questioncircle</span>
+                    <span class="text-xs text-center break-words w-full">questioncircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="receipt" class="text-2xl" />
-                    <span class="text-xs text-center">receipt</span>
+                    <span class="text-xs text-center break-words w-full">receipt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="reddit" class="text-2xl" />
-                    <span class="text-xs text-center">reddit</span>
+                    <span class="text-xs text-center break-words w-full">reddit</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="refresh" class="text-2xl" />
-                    <span class="text-xs text-center">refresh</span>
+                    <span class="text-xs text-center break-words w-full">refresh</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="replay" class="text-2xl" />
-                    <span class="text-xs text-center">replay</span>
+                    <span class="text-xs text-center break-words w-full">replay</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="reply" class="text-2xl" />
-                    <span class="text-xs text-center">reply</span>
+                    <span class="text-xs text-center break-words w-full">reply</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="save" class="text-2xl" />
-                    <span class="text-xs text-center">save</span>
+                    <span class="text-xs text-center break-words w-full">save</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="search" class="text-2xl" />
-                    <span class="text-xs text-center">search</span>
+                    <span class="text-xs text-center break-words w-full">search</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="search-minus" class="text-2xl" />
-                    <span class="text-xs text-center">searchminus</span>
+                    <span class="text-xs text-center break-words w-full">searchminus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="search-plus" class="text-2xl" />
-                    <span class="text-xs text-center">searchplus</span>
+                    <span class="text-xs text-center break-words w-full">searchplus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="send" class="text-2xl" />
-                    <span class="text-xs text-center">send</span>
+                    <span class="text-xs text-center break-words w-full">send</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="server" class="text-2xl" />
-                    <span class="text-xs text-center">server</span>
+                    <span class="text-xs text-center break-words w-full">server</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="share-alt" class="text-2xl" />
-                    <span class="text-xs text-center">sharealt</span>
+                    <span class="text-xs text-center break-words w-full">sharealt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="shield" class="text-2xl" />
-                    <span class="text-xs text-center">shield</span>
+                    <span class="text-xs text-center break-words w-full">shield</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="shop" class="text-2xl" />
-                    <span class="text-xs text-center">shop</span>
+                    <span class="text-xs text-center break-words w-full">shop</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="shopping-bag" class="text-2xl" />
-                    <span class="text-xs text-center">shoppingbag</span>
+                    <span class="text-xs text-center break-words w-full">shoppingbag</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="shopping-cart" class="text-2xl" />
-                    <span class="text-xs text-center">shoppingcart</span>
+                    <span class="text-xs text-center break-words w-full">shoppingcart</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sign-in" class="text-2xl" />
-                    <span class="text-xs text-center">signin</span>
+                    <span class="text-xs text-center break-words w-full">signin</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sign-out" class="text-2xl" />
-                    <span class="text-xs text-center">signout</span>
+                    <span class="text-xs text-center break-words w-full">signout</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sitemap" class="text-2xl" />
-                    <span class="text-xs text-center">sitemap</span>
+                    <span class="text-xs text-center break-words w-full">sitemap</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="slack" class="text-2xl" />
-                    <span class="text-xs text-center">slack</span>
+                    <span class="text-xs text-center break-words w-full">slack</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sliders-h" class="text-2xl" />
-                    <span class="text-xs text-center">slidersh</span>
+                    <span class="text-xs text-center break-words w-full">slidersh</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sliders-v" class="text-2xl" />
-                    <span class="text-xs text-center">slidersv</span>
+                    <span class="text-xs text-center break-words w-full">slidersv</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort" class="text-2xl" />
-                    <span class="text-xs text-center">sort</span>
+                    <span class="text-xs text-center break-words w-full">sort</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-alpha-alt-down" class="text-2xl" />
-                    <span class="text-xs text-center">sortalphaaltdown</span>
+                    <span class="text-xs text-center break-words w-full">sortalphaaltdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-alpha-alt-up" class="text-2xl" />
-                    <span class="text-xs text-center">sortalphaaltup</span>
+                    <span class="text-xs text-center break-words w-full">sortalphaaltup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-alpha-down" class="text-2xl" />
-                    <span class="text-xs text-center">sortalphadown</span>
+                    <span class="text-xs text-center break-words w-full">sortalphadown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-alpha-up" class="text-2xl" />
-                    <span class="text-xs text-center">sortalphaup</span>
+                    <span class="text-xs text-center break-words w-full">sortalphaup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-alt" class="text-2xl" />
-                    <span class="text-xs text-center">sortalt</span>
+                    <span class="text-xs text-center break-words w-full">sortalt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-alt-slash" class="text-2xl" />
-                    <span class="text-xs text-center">sortaltslash</span>
+                    <span class="text-xs text-center break-words w-full">sortaltslash</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-amount-down" class="text-2xl" />
-                    <span class="text-xs text-center">sortamountdown</span>
+                    <span class="text-xs text-center break-words w-full">sortamountdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-amount-down-alt" class="text-2xl" />
-                    <span class="text-xs text-center">sortamountdownalt</span>
+                    <span class="text-xs text-center break-words w-full">sortamountdownalt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-amount-up" class="text-2xl" />
-                    <span class="text-xs text-center">sortamountup</span>
+                    <span class="text-xs text-center break-words w-full">sortamountup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-amount-up-alt" class="text-2xl" />
-                    <span class="text-xs text-center">sortamountupalt</span>
+                    <span class="text-xs text-center break-words w-full">sortamountupalt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-down" class="text-2xl" />
-                    <span class="text-xs text-center">sortdown</span>
+                    <span class="text-xs text-center break-words w-full">sortdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-down-fill" class="text-2xl" />
-                    <span class="text-xs text-center">sortdownfill</span>
+                    <span class="text-xs text-center break-words w-full">sortdownfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-numeric-alt-down" class="text-2xl" />
-                    <span class="text-xs text-center">sortnumericaltdown</span>
+                    <span class="text-xs text-center break-words w-full">sortnumericaltdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-numeric-alt-up" class="text-2xl" />
-                    <span class="text-xs text-center">sortnumericaltup</span>
+                    <span class="text-xs text-center break-words w-full">sortnumericaltup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-numeric-down" class="text-2xl" />
-                    <span class="text-xs text-center">sortnumericdown</span>
+                    <span class="text-xs text-center break-words w-full">sortnumericdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-numeric-up" class="text-2xl" />
-                    <span class="text-xs text-center">sortnumericup</span>
+                    <span class="text-xs text-center break-words w-full">sortnumericup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-up" class="text-2xl" />
-                    <span class="text-xs text-center">sortup</span>
+                    <span class="text-xs text-center break-words w-full">sortup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sort-up-fill" class="text-2xl" />
-                    <span class="text-xs text-center">sortupfill</span>
+                    <span class="text-xs text-center break-words w-full">sortupfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sparkles" class="text-2xl" />
-                    <span class="text-xs text-center">sparkles</span>
+                    <span class="text-xs text-center break-words w-full">sparkles</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="spinner" class="text-2xl" />
-                    <span class="text-xs text-center">spinner</span>
+                    <span class="text-xs text-center break-words w-full">spinner</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="spinner-dotted" class="text-2xl" />
-                    <span class="text-xs text-center">spinnerdotted</span>
+                    <span class="text-xs text-center break-words w-full">spinnerdotted</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="star" class="text-2xl" />
-                    <span class="text-xs text-center">star</span>
+                    <span class="text-xs text-center break-words w-full">star</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="star-fill" class="text-2xl" />
-                    <span class="text-xs text-center">starfill</span>
+                    <span class="text-xs text-center break-words w-full">starfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="star-half" class="text-2xl" />
-                    <span class="text-xs text-center">starhalf</span>
+                    <span class="text-xs text-center break-words w-full">starhalf</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="star-half-fill" class="text-2xl" />
-                    <span class="text-xs text-center">starhalffill</span>
+                    <span class="text-xs text-center break-words w-full">starhalffill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="step-backward" class="text-2xl" />
-                    <span class="text-xs text-center">stepbackward</span>
+                    <span class="text-xs text-center break-words w-full">stepbackward</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="step-backward-alt" class="text-2xl" />
-                    <span class="text-xs text-center">stepbackwardalt</span>
+                    <span class="text-xs text-center break-words w-full">stepbackwardalt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="step-forward" class="text-2xl" />
-                    <span class="text-xs text-center">stepforward</span>
+                    <span class="text-xs text-center break-words w-full">stepforward</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="step-forward-alt" class="text-2xl" />
-                    <span class="text-xs text-center">stepforwardalt</span>
+                    <span class="text-xs text-center break-words w-full">stepforwardalt</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="stop" class="text-2xl" />
-                    <span class="text-xs text-center">stop</span>
+                    <span class="text-xs text-center break-words w-full">stop</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="stop-circle" class="text-2xl" />
-                    <span class="text-xs text-center">stopcircle</span>
+                    <span class="text-xs text-center break-words w-full">stopcircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="stopwatch" class="text-2xl" />
-                    <span class="text-xs text-center">stopwatch</span>
+                    <span class="text-xs text-center break-words w-full">stopwatch</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sun" class="text-2xl" />
-                    <span class="text-xs text-center">sun</span>
+                    <span class="text-xs text-center break-words w-full">sun</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="sync" class="text-2xl" />
-                    <span class="text-xs text-center">sync</span>
+                    <span class="text-xs text-center break-words w-full">sync</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="table" class="text-2xl" />
-                    <span class="text-xs text-center">table</span>
+                    <span class="text-xs text-center break-words w-full">table</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="tablet" class="text-2xl" />
-                    <span class="text-xs text-center">tablet</span>
+                    <span class="text-xs text-center break-words w-full">tablet</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="tag" class="text-2xl" />
-                    <span class="text-xs text-center">tag</span>
+                    <span class="text-xs text-center break-words w-full">tag</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="tags" class="text-2xl" />
-                    <span class="text-xs text-center">tags</span>
+                    <span class="text-xs text-center break-words w-full">tags</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="telegram" class="text-2xl" />
-                    <span class="text-xs text-center">telegram</span>
+                    <span class="text-xs text-center break-words w-full">telegram</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="th-large" class="text-2xl" />
-                    <span class="text-xs text-center">thlarge</span>
+                    <span class="text-xs text-center break-words w-full">thlarge</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="thumbs-down" class="text-2xl" />
-                    <span class="text-xs text-center">thumbsdown</span>
+                    <span class="text-xs text-center break-words w-full">thumbsdown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="thumbs-down-fill" class="text-2xl" />
-                    <span class="text-xs text-center">thumbsdownfill</span>
+                    <span class="text-xs text-center break-words w-full">thumbsdownfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="thumbs-up" class="text-2xl" />
-                    <span class="text-xs text-center">thumbsup</span>
+                    <span class="text-xs text-center break-words w-full">thumbsup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="thumbs-up-fill" class="text-2xl" />
-                    <span class="text-xs text-center">thumbsupfill</span>
+                    <span class="text-xs text-center break-words w-full">thumbsupfill</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="thumbtack" class="text-2xl" />
-                    <span class="text-xs text-center">thumbtack</span>
+                    <span class="text-xs text-center break-words w-full">thumbtack</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="ticket" class="text-2xl" />
-                    <span class="text-xs text-center">ticket</span>
+                    <span class="text-xs text-center break-words w-full">ticket</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="tiktok" class="text-2xl" />
-                    <span class="text-xs text-center">tiktok</span>
+                    <span class="text-xs text-center break-words w-full">tiktok</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="times" class="text-2xl" />
-                    <span class="text-xs text-center">times</span>
+                    <span class="text-xs text-center break-words w-full">times</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="times-circle" class="text-2xl" />
-                    <span class="text-xs text-center">timescircle</span>
+                    <span class="text-xs text-center break-words w-full">timescircle</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="trash" class="text-2xl" />
-                    <span class="text-xs text-center">trash</span>
+                    <span class="text-xs text-center break-words w-full">trash</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="trophy" class="text-2xl" />
-                    <span class="text-xs text-center">trophy</span>
+                    <span class="text-xs text-center break-words w-full">trophy</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="truck" class="text-2xl" />
-                    <span class="text-xs text-center">truck</span>
+                    <span class="text-xs text-center break-words w-full">truck</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="turkish-lira" class="text-2xl" />
-                    <span class="text-xs text-center">turkishlira</span>
+                    <span class="text-xs text-center break-words w-full">turkishlira</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="twitch" class="text-2xl" />
-                    <span class="text-xs text-center">twitch</span>
+                    <span class="text-xs text-center break-words w-full">twitch</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="twitter" class="text-2xl" />
-                    <span class="text-xs text-center">twitter</span>
+                    <span class="text-xs text-center break-words w-full">twitter</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="undo" class="text-2xl" />
-                    <span class="text-xs text-center">undo</span>
+                    <span class="text-xs text-center break-words w-full">undo</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="unlock" class="text-2xl" />
-                    <span class="text-xs text-center">unlock</span>
+                    <span class="text-xs text-center break-words w-full">unlock</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="upload" class="text-2xl" />
-                    <span class="text-xs text-center">upload</span>
+                    <span class="text-xs text-center break-words w-full">upload</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="user" class="text-2xl" />
-                    <span class="text-xs text-center">user</span>
+                    <span class="text-xs text-center break-words w-full">user</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="user-edit" class="text-2xl" />
-                    <span class="text-xs text-center">useredit</span>
+                    <span class="text-xs text-center break-words w-full">useredit</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="user-minus" class="text-2xl" />
-                    <span class="text-xs text-center">userminus</span>
+                    <span class="text-xs text-center break-words w-full">userminus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="user-plus" class="text-2xl" />
-                    <span class="text-xs text-center">userplus</span>
+                    <span class="text-xs text-center break-words w-full">userplus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="users" class="text-2xl" />
-                    <span class="text-xs text-center">users</span>
+                    <span class="text-xs text-center break-words w-full">users</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="venus" class="text-2xl" />
-                    <span class="text-xs text-center">venus</span>
+                    <span class="text-xs text-center break-words w-full">venus</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="verified" class="text-2xl" />
-                    <span class="text-xs text-center">verified</span>
+                    <span class="text-xs text-center break-words w-full">verified</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="video" class="text-2xl" />
-                    <span class="text-xs text-center">video</span>
+                    <span class="text-xs text-center break-words w-full">video</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="vimeo" class="text-2xl" />
-                    <span class="text-xs text-center">vimeo</span>
+                    <span class="text-xs text-center break-words w-full">vimeo</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="volume-down" class="text-2xl" />
-                    <span class="text-xs text-center">volumedown</span>
+                    <span class="text-xs text-center break-words w-full">volumedown</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="volume-off" class="text-2xl" />
-                    <span class="text-xs text-center">volumeoff</span>
+                    <span class="text-xs text-center break-words w-full">volumeoff</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="volume-up" class="text-2xl" />
-                    <span class="text-xs text-center">volumeup</span>
+                    <span class="text-xs text-center break-words w-full">volumeup</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="wallet" class="text-2xl" />
-                    <span class="text-xs text-center">wallet</span>
+                    <span class="text-xs text-center break-words w-full">wallet</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="warehouse" class="text-2xl" />
-                    <span class="text-xs text-center">warehouse</span>
+                    <span class="text-xs text-center break-words w-full">warehouse</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="wave-pulse" class="text-2xl" />
-                    <span class="text-xs text-center">wavepulse</span>
+                    <span class="text-xs text-center break-words w-full">wavepulse</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="whatsapp" class="text-2xl" />
-                    <span class="text-xs text-center">whatsapp</span>
+                    <span class="text-xs text-center break-words w-full">whatsapp</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="wifi" class="text-2xl" />
-                    <span class="text-xs text-center">wifi</span>
+                    <span class="text-xs text-center break-words w-full">wifi</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="window-maximize" class="text-2xl" />
-                    <span class="text-xs text-center">windowmaximize</span>
+                    <span class="text-xs text-center break-words w-full">windowmaximize</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="window-minimize" class="text-2xl" />
-                    <span class="text-xs text-center">windowminimize</span>
+                    <span class="text-xs text-center break-words w-full">windowminimize</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="wrench" class="text-2xl" />
-                    <span class="text-xs text-center">wrench</span>
+                    <span class="text-xs text-center break-words w-full">wrench</span>
                 </div>
-                <div class="flex flex-col items-center gap-2 p-2 w-20">
+                <div class="flex flex-col items-center gap-3 p-4 min-w-[120px]">
                     <svg data-p-icon="youtube" class="text-2xl" />
-                    <span class="text-xs text-center">youtube</span>
+                    <span class="text-xs text-center break-words w-full">youtube</span>
                 </div>
             </div>
         </div>
