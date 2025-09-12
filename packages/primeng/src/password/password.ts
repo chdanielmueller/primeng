@@ -435,7 +435,7 @@ export const Password_VALUE_ACCESSOR: any = {
 
         <ng-container *ngIf="toggleMask">
             <ng-container *ngIf="unmasked">
-                <svg data-p-icon="eyeslash" [class]="cx('maskIcon')" *ngIf="!hideIconTemplate && !_hideIconTemplate" (click)="onMaskToggle()" [attr.data-pc-section]="'hideIcon'" />
+                <svg data-p-icon="eye-slash" [class]="cx('maskIcon')" *ngIf="!hideIconTemplate && !_hideIconTemplate" (click)="onMaskToggle()" [attr.data-pc-section]="'hideIcon'" />
                 <span *ngIf="hideIconTemplate || _hideIconTemplate" (click)="onMaskToggle()">
                     <ng-template *ngTemplateOutlet="hideIconTemplate || _hideIconTemplate; context: { class: cx('maskIcon') }"></ng-template>
                 </span>
