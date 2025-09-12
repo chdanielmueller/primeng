@@ -7,6 +7,7 @@ import { ImportDoc } from '@/doc/icons/importdoc';
 import { ListDoc } from '@/doc/icons/listdoc';
 import { SizeDoc } from '@/doc/icons/sizedoc';
 import { SpinDoc } from '@/doc/icons/spindoc';
+import { BuiltInPrimeIconsDoc } from '@/doc/icons/builtinprimeiconsdoc';
 import { Component } from '@angular/core';
 import { AppDoc } from '@/components/doc/app.doc';
 
@@ -69,6 +70,11 @@ export class IconsDemo {
             id: 'list',
             label: 'List',
             component: ListDoc
+        },
+        {
+            id: 'built-in',
+            label: 'Built In PrimeIcons',
+            component: BuiltInPrimeIconsDoc
         }
     ];
 }

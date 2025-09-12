@@ -1,0 +1,16 @@
+import { Component } from '@angular/core';
+import { BaseIcon } from 'primeng/icons/baseicon';
+
+@Component({
+    selector: '[data-p-icon="book"]',
+    standalone: true,
+    template: `
+        <svg:path
+            d="M19,3.25H6.75A2.43,2.43,0,0,0,4.25,5.6V18a2.85,2.85,0,0,0,2.94,2.75H19a.76.76,0,0,0,.75-.75V4A.76.76,0,0,0,19,3.25Zm-.75,16H7.19A1.35,1.35,0,0,1,5.75,18a1.35,1.35,0,0,1,1.44-1.25H18.25Zm0-4H7.19a3,3,0,0,0-1.44.37V5.6a.94.94,0,0,1,1-.85h11.5Z"
+            fill="currentColor"
+        />
+        <svg:path d="M8.75,8.75h6.5a.75.75,0,0,0,0-1.5H8.75a.75.75,0,0,0,0,1.5Z" fill="currentColor" />
+        <svg:path d="M8.75,12.25h6.5a.75.75,0,0,0,0-1.5H8.75a.75.75,0,0,0,0,1.5Z" fill="currentColor" />
+    `
+})
+export class BookIcon extends BaseIcon {}

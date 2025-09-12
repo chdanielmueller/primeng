@@ -1,0 +1,14 @@
+import { Component } from '@angular/core';
+import { BaseIcon } from 'primeng/icons/baseicon';
+
+@Component({
+    selector: '[data-p-icon="step-backward-alt"]',
+    standalone: true,
+    template: `
+        <svg:path
+            d="M16.29,4.31c-.28-.11-.6-.05-.82,.16l-6.72,6.72V5c0-.41-.34-.75-.75-.75s-.75,.34-.75,.75v14c0,.41,.34,.75,.75,.75s.75-.34,.75-.75v-6.19l6.72,6.72c.14,.14,.34,.22,.53,.22,.1,0,.19-.02,.29-.06,.28-.12,.46-.39,.46-.69V5c0-.3-.18-.58-.46-.69Zm-1.04,12.88l-5.19-5.19,5.19-5.19v10.38Z"
+            fill="currentColor"
+        />
+    `
+})
+export class StepBackwardAltIcon extends BaseIcon {}

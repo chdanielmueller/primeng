@@ -1,0 +1,15 @@
+import { Component } from '@angular/core';
+import { BaseIcon } from 'primeng/icons/baseicon';
+
+@Component({
+    selector: '[data-p-icon="sort-numeric-down"]',
+    standalone: true,
+    template: `
+        <svg:path d="M8.38,19.75a.75.75,0,0,1-.54-.22L5.34,17a.75.75,0,0,1,0-1.06.77.77,0,0,1,1.07,0l2,2,2-2a.77.77,0,0,1,1.07,0,.75.75,0,0,1,0,1.06l-2.5,2.5A.74.74,0,0,1,8.38,19.75Z" fill="currentColor" />
+        <svg:path d="M8.38,19.75A.76.76,0,0,1,7.62,19V5a.76.76,0,0,1,.76-.75A.75.75,0,0,1,9.12,5V19A.75.75,0,0,1,8.38,19.75Z" fill="currentColor" />
+        <svg:path d="M17.12,11.25a.75.75,0,0,1-.74-.75V6.44L16,6.66a.75.75,0,0,1-.73-1.32L15.92,5a1.19,1.19,0,0,1,1.22-.11,1.29,1.29,0,0,1,.74,1.18V10.5A.76.76,0,0,1,17.12,11.25Z" fill="currentColor" />
+        <svg:path d="M16.62,17.25A2.25,2.25,0,1,1,18.88,15,2.24,2.24,0,0,1,16.62,17.25Zm0-3a.75.75,0,0,0,0,1.5.75.75,0,1,0,0-1.5Z" fill="currentColor" />
+        <svg:path d="M16.11,19.25h-.49a.75.75,0,0,1,0-1.5h.49a1.28,1.28,0,0,0,1.25-1.19c0-.29,0-.64,0-1.06V15a.75.75,0,0,1,.74-.75.76.76,0,0,1,.76.75v.5c0,.45,0,.82,0,1.14A2.79,2.79,0,0,1,16.11,19.25Z" fill="currentColor" />
+    `
+})
+export class SortNumericDownIcon extends BaseIcon {}

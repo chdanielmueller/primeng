@@ -1,0 +1,16 @@
+import { Component } from '@angular/core';
+import { BaseIcon } from 'primeng/icons/baseicon';
+
+@Component({
+    selector: '[data-p-icon="euro"]',
+    standalone: true,
+    template: `
+        <svg:path
+            d="M13,20.75h-.15a8.75,8.75,0,0,1-5.93-15,8.54,8.54,0,0,1,6.23-2.46,8.75,8.75,0,0,1,6,2.5.75.75,0,0,1,0,1.06.75.75,0,0,1-1.06,0,7.26,7.26,0,1,0-.19,10.53l.22-.21a.79.79,0,0,1,1.09,0,.7.7,0,0,1,.05,1l-.05.05-.29.28A8.72,8.72,0,0,1,13,20.75Z"
+            fill="currentColor"
+        />
+        <svg:path d="M17,11.25H3a.75.75,0,0,1,0-1.5H17a.75.75,0,0,1,0,1.5Z" fill="currentColor" />
+        <svg:path d="M15.5,14.25H3a.75.75,0,0,1,0-1.5H15.5a.75.75,0,0,1,0,1.5Z" fill="currentColor" />
+    `
+})
+export class EuroIcon extends BaseIcon {}

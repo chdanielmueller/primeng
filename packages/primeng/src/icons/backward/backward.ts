@@ -1,0 +1,14 @@
+import { Component } from '@angular/core';
+import { BaseIcon } from 'primeng/icons/baseicon';
+
+@Component({
+    selector: '[data-p-icon="backward"]',
+    standalone: true,
+    template: `
+        <svg:path
+            d="M20.3,4.31c-.27-.12-.59-.06-.81,.14l-7.27,6.82V5c0-.3-.18-.57-.45-.69-.27-.12-.59-.06-.81,.14L3.49,11.45c-.15,.14-.24,.34-.24,.55s.09,.41,.24,.55l7.47,7c.14,.13,.33,.2,.51,.2,.1,0,.2-.02,.3-.06,.27-.12,.45-.39,.45-.69v-6.27l7.27,6.82c.14,.13,.33,.2,.51,.2,.1,0,.2-.02,.3-.06,.27-.12,.45-.39,.45-.69V5c0-.3-.18-.57-.45-.69Zm-9.58,12.96l-5.62-5.27,5.62-5.27v10.54Zm8.53,0l-5.62-5.27,5.62-5.27v10.54Z"
+            fill="currentColor"
+        />
+    `
+})
+export class BackwardIcon extends BaseIcon {}

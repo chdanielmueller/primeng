@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { BaseIcon } from 'primeng/icons/baseicon';
 
 @Component({
-    selector: '[data-p-icon="blank"]',
+    selector: '[data-p-icon="blank"], blank-icon',
     standalone: true,
     template: ` <svg:rect width="1" height="1" fill="currentColor" fill-opacity="0" /> `
 })
